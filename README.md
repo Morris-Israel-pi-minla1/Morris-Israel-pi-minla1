@@ -29,13 +29,13 @@ I embody the mindset of an **Entrepreneur** with the technical skillset of a dev
 
 
 ## 🔭 Working on:
-**[Airbnb Clone Project](https://github.com/CorneliusNgure/airbnb-clone-project)**
+**[Airbnb Clone Project](https://github.com/Morris-Israel-pi-minla1/airbnb-clone-project)**
   * Languages: **Html, CSS, JavaScript, React, Bootstrap**
   * Version Control: **Git + GitHub**
   * Design Tools: **Figma for UI/UX planning**
 
 ## 📫 How to reach me:
-  **[LinkedIn](https://www.linkedin.com/in//) || [X](https://x.com/CorneliusNgure)**
+  **[LinkedIn](https://www.linkedin.com/in/morris-israel-nyakeh-abu-piminlacholevo/) || [X](https://x.com/IsraelNyakeh)
 
 ## ⚡ Fun fact: 
 **Learning and building is our source to be cooked for meal🙏🏿**
